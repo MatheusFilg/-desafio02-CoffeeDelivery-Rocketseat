@@ -9,7 +9,7 @@ const coffees = [
 
     description: 'O tradicional café feito com água quente e grãos moídos',
     price: 9.9,
-    image: 'https://i.imgur.com/akBm2jz.png',
+    image: 'https://i.imgur.com/78mQ6pf.png',
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const coffees = [
     tag: ['TRADICIONAL'],
     description: 'Expresso diluído, menos intenso que o tradicional',
     price: 9.9,
-    image: 'https://i.imgur.com/GYaPg9K.png',
+    image: 'https://i.imgur.com/biiHcDc.png',
   },
   {
     id: 3,
@@ -25,7 +25,7 @@ const coffees = [
     tag: ['TRADICIONAL'],
     description: 'Café expresso tradicional com espuma cremosa',
     price: 9.9,
-    image: 'https://i.imgur.com/muW2cBW.png',
+    image: 'https://i.imgur.com/4xeGWms.png',
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ const coffees = [
     tag: ['TRADICIONAL', 'GELADO'],
     description: 'Bebida preparada com café expresso e cubos de gelo',
     price: 9.9,
-    image: 'https://i.imgur.com/xOT26AR.png',
+    image: 'https://i.imgur.com/jBEEMIK.png',
   },
   {
     id: 5,
@@ -41,7 +41,7 @@ const coffees = [
     tag: ['TRADICIONAL', 'COM LEITE'],
     description: 'Meio a meio de expresso tradicional com leite vaporizado',
     price: 9.9,
-    image: 'https://i.imgur.com/zc5OtSC.png',
+    image: 'https://i.imgur.com/EXAST8e.png',
   },
   {
     id: 6,
@@ -50,7 +50,7 @@ const coffees = [
     description:
       'Uma dose de café expresso com o dobro de leite e espuma cremosa',
     price: 9.9,
-    image: 'https://i.imgur.com/9i5nAL2.png',
+    image: 'https://i.imgur.com/ATkEPYB.png',
   },
   {
     id: 7,
@@ -59,7 +59,7 @@ const coffees = [
     description:
       'Bebida com canela feita de doses iguais de café, leite e espuma',
     price: 9.9,
-    image: 'https://i.imgur.com/2pPeYJH.png',
+    image: 'https://i.imgur.com/0DaZcKE.png',
   },
   {
     id: 8,
@@ -68,7 +68,7 @@ const coffees = [
     description:
       'Café expresso misturado com um pouco de leite quente e espuma',
     price: 9.9,
-    image: 'https://i.imgur.com/EcygyyS.png',
+    image: 'https://i.imgur.com/h8mlGJF.png',
   },
   {
     id: 9,
@@ -76,7 +76,7 @@ const coffees = [
     tag: ['TRADICIONAL', 'COM LEITE'],
     description: 'Café expresso com calda de chocolate, pouco leite e espuma',
     price: 9.9,
-    image: 'https://i.imgur.com/ezFsHZO.png',
+    image: 'https://i.imgur.com/KMg6prE.png',
   },
   {
     id: 10,
@@ -84,7 +84,7 @@ const coffees = [
     tag: ['ESPECIAL', 'COM LEITE'],
     description: 'Bebida feita com chocolate dissolvido no leite quente e café',
     price: 9.9,
-    image: 'https://i.imgur.com/sdw6uHe.png',
+    image: 'https://i.imgur.com/skwrHL1.png',
   },
   {
     id: 11,
@@ -93,7 +93,7 @@ const coffees = [
     description:
       'Drink gelado de café expresso com rum, creme de leite e hortelã',
     price: 9.9,
-    image: 'https://i.imgur.com/4k876dQ.png',
+    image: 'https://i.imgur.com/QxDjVvE.png',
   },
   {
     id: 12,
@@ -101,7 +101,7 @@ const coffees = [
     tag: ['ESPECIAL'],
     description: 'Bebida adocicada preparada com café e leite de coco',
     price: 9.9,
-    image: 'https://i.imgur.com/PJSbqze.png',
+    image: 'https://i.imgur.com/w7fylrK.png',
   },
   {
     id: 13,
@@ -109,7 +109,7 @@ const coffees = [
     tag: ['ESPECIAL'],
     description: 'Bebida preparada com grãos de café árabe e especiarias',
     price: 9.9,
-    image: 'https://i.imgur.com/A8lF1E6.png',
+    image: 'https://i.imgur.com/O4Ecs5u.png',
   },
   {
     id: 14,
@@ -117,7 +117,7 @@ const coffees = [
     tag: ['ESPECIAL', 'ALCOÓLICO'],
     description: 'Bebida a base de café, uísque irlandês, açúcar e chantilly',
     price: 9.9,
-    image: 'https://i.imgur.com/P3gd6ei.png',
+    image: 'https://i.imgur.com/Ckxqaea.png',
   },
 ]
 
