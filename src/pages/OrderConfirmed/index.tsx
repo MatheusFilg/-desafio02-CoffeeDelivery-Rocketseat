@@ -51,9 +51,9 @@ export function OrderConfirmed() {
             </LocalIcon>
             <InfoText>
               <p>
-                Entrega em
+                Entrega em 
                 <strong>
-                  {state.street}, {state.streetnumber} {state.complement}
+                   {state.street}, {state.streetnumber} {state.complement}
                 </strong>
               </p>
               <p>
